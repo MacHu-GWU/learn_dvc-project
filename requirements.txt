@@ -1,0 +1,2 @@
+# Core dependencies goes here
+dvc>=3.50.3,<4.0.0
